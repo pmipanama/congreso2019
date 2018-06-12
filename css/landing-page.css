@@ -114,6 +114,25 @@ header.masthead h1 {
 
 .inversion{
   padding-bottom: 7rem;
+  font-size: 1.5rem;
+}
+
+.inversion-header{
+  background-color: #004165;
+  color:white;
+  font-size: 2rem;
+}
+
+.inversion-header-rows{
+  color: #004165;
+}
+
+.inversion-beneficios{
+  color: #004165;
+}
+
+.inversion-precios{
+  color: orange;
 }
 
 .call-to-action {
