@@ -15,7 +15,7 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/Slider/slider.jpg") no-repeat center center;
+  background: url("../img/Congreso2019/generalGlobal3.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -97,6 +97,11 @@ header.masthead h1 {
 
 .inversion-precios {
   color: orange;
+}
+
+.call-for-speakers {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 footer.footer {
