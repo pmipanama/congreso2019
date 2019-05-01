@@ -15,7 +15,8 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/Congreso2019/generalGlobal3.jpg") no-repeat center center;
+  background: url("../img/Congreso2019/generalGlobal3.jpg") no-repeat center
+    center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -48,7 +49,6 @@ header.masthead h1 {
 
 .testimonials {
   padding-top: 7rem;
-  padding-bottom: 7rem;
 }
 
 .testimonials .testimonial-item {
@@ -109,4 +109,10 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
   font-size: 1.5rem;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
 }
