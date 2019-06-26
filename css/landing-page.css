@@ -37,6 +37,10 @@ header.masthead h1 {
   font-size: 2rem;
 }
 
+header.masthead a {
+  margin-bottom: 2rem;
+}
+
 @media (min-width: 768px) {
   header.masthead {
     padding-top: 16rem;
@@ -48,7 +52,7 @@ header.masthead h1 {
 }
 
 .testimonials {
-  padding-top: 7rem;
+  padding-top: 1rem;
 }
 
 .testimonials .testimonial-item {
